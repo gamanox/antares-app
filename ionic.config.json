@@ -1,0 +1,8 @@
+{
+  "name": "antares-app",
+  "app_id": "46bfd126",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
